@@ -1,2 +1,2 @@
 # LabASD
-Algorithms and Data Structures Laboratory
+Algorithms and Data Structures projects
